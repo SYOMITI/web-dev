@@ -1,0 +1,45 @@
+h1{
+	text-align: center;
+}
+.login{
+	background-color: #d534eb;
+	padding: 20px;
+	border-radius: 8px;
+}
+select,
+[type="text"],
+[type="password"]{
+width :100%;
+padding: 10px 14px;
+border-radius: 20px;
+}
+
+[type="submit"]{
+	width :100%;
+padding: 10px 14px;
+border: none;
+border-radius: 20px;
+}
+[type="submit"]{
+	opacity: 0.5;
+}
+
+	
+
+/*styles for nav bar */
+.topnavlist{
+	background-color: #7db550;
+	list-style-type: none;
+}
+li a{text decoration: none;
+	 float-size: 25px;
+	  padding: 8px;
+	  color: white;
+	}
+	li a:hover{
+		background-color:#b5ae50;
+	}
+
+	 {display: inline;
+	 float:right;
+}
